@@ -1,3 +1,3 @@
-# rsschool-cv1
-https://vorobey4k.github.io/rsschool-cv1/
-https://vorobey4k.github.io/rsschool-cv1/qwe/cv
+# rsschool-cv
+https://vorobey4k.github.io/rsschool-cv/
+https://vorobey4k.github.io/rsschool-cv/qwe/cv
